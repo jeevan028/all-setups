@@ -1,6 +1,6 @@
 #vim .bashrc
-#export PATH=$PATH:/usr/local/bin/
-#source .bashrc
+#export PATH=$PATH:/usr/local/bin/ - manam eh file ina download chesthe adi file format lo untadi so dhani bin loki move chesi exec format loki change avthundi
+#source .bashrc:- this command is used to save.
 
 
 #! /bin/bash
